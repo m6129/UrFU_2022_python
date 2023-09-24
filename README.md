@@ -1,4 +1,9 @@
-# UrFU_2022_python_dataset
+# UrFU_2022_python_dataset  
+
+Просто хранилище/кладбище датасетов для удобства работы  
+
+---  
+
 SF homeworw
 Dataset from study (modul SF)
 + python (в коллабах другие адреса, если понадобятся нужно поменять адреса)
